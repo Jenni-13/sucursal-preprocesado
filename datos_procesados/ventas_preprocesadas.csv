@@ -1,0 +1,101 @@
+id_alquiler,id_cliente,id_vehiculo,id_sucursal,id_empleado,id_tiempo,monto_total,monto_seguro,monto_combustible,estado_alquiler,nombre_sucursal,direccion,ciudad,pais,telefono,codigo_postal,email,fecha_apertura
+1,42,55,8,20,350,12,85,40,cancelado,Quimba,803 Vermont Center,Chuhuyiv,Ukraine,391-165-6280,Desconocido,ihabbergham7@eepurl.com,2024-10-25
+2,12,93,80,25,247,80,8,31,cancelado,Twitterbeat,55072 Welch Street,Ústí nad Orlicí,Czech Republic,520-346-8283,562 06,ocalvie27@patch.com,2025-03-13
+3,97,100,22,8,137,51,39,31,en curso,Quamba,4 Shelley Place,Frösön,Sweden,452-894-8778,832 93,gjerchel@fc2.com,2024-12-22
+4,83,38,80,24,103,37,89,24,cancelado,Twitterbeat,55072 Welch Street,Ústí nad Orlicí,Czech Republic,520-346-8283,562 06,ocalvie27@patch.com,2025-03-13
+5,87,4,83,1,293,18,13,55,en curso,Oyondu,95 Del Sol Alley,Bandera,Argentina,578-970-5364,3064,mnutkins2a@patch.com,2024-07-17
+6,19,81,41,25,48,89,15,11,completado,Avamm,2 Pennsylvania Pass,Norfolk County,Canada,228-775-3985,T0C,psacks14@quantcast.com,2024-12-25
+7,98,60,18,18,190,47,33,2,en curso,Skiptube,7216 Hanson Parkway,Velyka Lepetykha,Ukraine,958-437-8561,Desconocido,mfretwellh@php.net,2024-07-30
+8,87,53,56,21,47,56,92,67,completado,Kaymbo,349 Westend Place,Puerto Esperanza,Argentina,996-687-1844,3378,nsimkiss1j@sohu.com,2024-07-05
+9,38,31,50,10,244,38,14,45,completado,Skiptube,379 Montana Trail,Elefsína,Greece,327-725-7487,Desconocido,mlabbet1d@clickbank.net,2025-03-11
+10,31,20,53,8,139,55,71,69,en curso,Dabjam,39172 Summit Road,Orlândia,Brazil,708-881-6127,14620-000,lliddicoat1g@home.pl,2024-11-06
+11,48,6,76,13,74,86,13,9,cancelado,Buzzbean,9105 School Place,Ma’ao,China,304-318-3534,Desconocido,esnadden23@studiopress.com,2024-10-24
+12,88,36,88,30,276,6,56,49,en curso,Divanoodle,9 Prentice Avenue,San Pedro,Bolivia,341-300-2215,Desconocido,jhalliday2f@naver.com,2025-03-25
+13,89,16,55,22,308,21,5,18,completado,Viva,1205 Westridge Hill,Stockholm,Sweden,415-134-8472,103 98,mgorgen1i@g.co,2024-10-24
+14,25,41,17,20,153,67,51,66,completado,Edgetag,570 Lillian Parkway,Solnechnogorsk,Russia,871-364-8025,141508,ngedlingg@addthis.com,2024-09-08
+15,65,68,72,2,357,33,36,43,en curso,Topicshots,8544 Carpenter Drive,Guisa,Cuba,128-173-8630,Desconocido,rrosenbarg1z@fema.gov,2024-10-30
+16,87,60,26,15,92,62,46,67,completado,Lazz,24 Buena Vista Center,Diriomo,Nicaragua,780-113-6205,Desconocido,ggiannazzip@ask.com,2024-09-15
+17,10,24,29,7,88,42,92,27,cancelado,Kwinu,88109 Monica Road,Warugunung,Indonesia,414-355-3365,Desconocido,acamblings@infoseek.co.jp,2024-06-25
+18,72,99,8,2,40,95,42,13,completado,Quimba,803 Vermont Center,Chuhuyiv,Ukraine,391-165-6280,Desconocido,ihabbergham7@eepurl.com,2024-10-25
+19,91,51,50,25,258,11,3,20,cancelado,Skiptube,379 Montana Trail,Elefsína,Greece,327-725-7487,Desconocido,mlabbet1d@clickbank.net,2025-03-11
+20,88,40,58,16,24,100,5,13,completado,Livepath,045 Coleman Trail,Alexandria,Jamaica,601-304-2597,Desconocido,dguys1l@squarespace.com,2024-07-09
+21,80,56,82,3,164,83,5,88,en curso,Latz,525 Weeping Birch Alley,Tarikolot,Indonesia,258-855-3711,Desconocido,ssalterne29@nbcnews.com,2025-05-19
+22,86,76,72,11,22,42,68,54,en curso,Topicshots,8544 Carpenter Drive,Guisa,Cuba,128-173-8630,Desconocido,rrosenbarg1z@fema.gov,2024-10-30
+23,22,32,81,24,27,3,80,30,completado,Yotz,754 Cody Street,Néa Magnisía,Greece,440-286-6196,Desconocido,blaughton28@1688.com,2024-09-27
+24,91,50,84,30,112,81,93,81,en curso,Skynoodle,09 Eliot Trail,Tianzhen,China,413-550-7965,Desconocido,tbardwall2b@gizmodo.com,2024-06-30
+25,18,48,89,22,296,32,55,52,completado,Skynoodle,5524 American Ash Parkway,El Aguilar,Argentina,153-506-3669,4634,fleggon2g@dedecms.com,2024-12-26
+26,78,91,40,21,267,75,70,80,cancelado,Linktype,11 Forest Run Place,Sotouboua,Togo,386-795-3900,Desconocido,nginglell13@stanford.edu,2025-06-17
+27,64,91,68,18,226,39,50,34,completado,Jazzy,64237 Fieldstone Avenue,Pasirsongket Dua,Indonesia,113-143-3249,Desconocido,vhumpherson1v@google.cn,2024-11-18
+28,86,52,88,16,266,47,65,68,en curso,Divanoodle,9 Prentice Avenue,San Pedro,Bolivia,341-300-2215,Desconocido,jhalliday2f@naver.com,2025-03-25
+29,85,37,43,2,288,19,52,53,en curso,Wikivu,7 Columbus Drive,Xiadian,China,734-673-0556,Desconocido,pairs16@google.nl,2024-12-05
+30,91,66,2,4,327,78,100,60,cancelado,Jaxbean,20491 Sauthoff Trail,Bungkal,Indonesia,686-904-4283,Desconocido,dmatteucci1@bbc.co.uk,2025-04-22
+31,89,24,14,18,249,52,41,62,cancelado,Roodel,1291 Warbler Alley,Saint-Quentin-en-Yvelines,France,464-834-5633,78897 CEDEX,vverickd@gizmodo.com,2025-01-24
+32,99,77,51,14,288,61,4,49,cancelado,Realblab,617 Petterle Trail,El Marañón,Honduras,384-954-5615,Desconocido,jreimer1e@dion.ne.jp,2025-03-31
+33,58,65,62,14,189,81,53,51,cancelado,Mymm,31 Drewry Court,Labuhankananga,Indonesia,230-461-6676,Desconocido,egrigoire1p@webnode.com,2024-08-24
+34,31,49,72,20,40,8,25,4,completado,Topicshots,8544 Carpenter Drive,Guisa,Cuba,128-173-8630,Desconocido,rrosenbarg1z@fema.gov,2024-10-30
+35,5,89,9,18,323,17,65,31,en curso,Realbuzz,87 Hanson Terrace,Norberg,Sweden,443-554-1666,738 34,rlegges8@npr.org,2025-02-25
+36,76,13,86,30,343,47,79,34,completado,Buzzbean,3 Pine View Pass,San Pablo,Costa Rica,710-628-8476,12001,fbrandts2d@angelfire.com,2024-12-26
+37,65,70,90,25,35,80,73,55,completado,Topiczoom,0845 Dakota Crossing,Sendangkemulian,Indonesia,301-453-7990,Desconocido,bdiboldi2h@tinypic.com,2025-04-15
+38,59,19,41,2,317,64,87,44,cancelado,Avamm,2 Pennsylvania Pass,Norfolk County,Canada,228-775-3985,T0C,psacks14@quantcast.com,2024-12-25
+39,12,6,55,27,202,53,75,85,cancelado,Viva,1205 Westridge Hill,Stockholm,Sweden,415-134-8472,103 98,mgorgen1i@g.co,2024-10-24
+40,55,57,34,4,145,64,16,89,cancelado,Vimbo,497 Ronald Regan Avenue,Mozelos,Portugal,507-962-4148,4535-160,ocollumbinex@theguardian.com,2025-02-22
+41,43,57,50,9,288,68,30,65,cancelado,Skiptube,379 Montana Trail,Elefsína,Greece,327-725-7487,Desconocido,mlabbet1d@clickbank.net,2025-03-11
+42,21,23,47,27,225,96,54,29,cancelado,Topicblab,6596 Welch Circle,Shuanglong,China,692-314-2210,Desconocido,bwitherington1a@weibo.com,2024-08-24
+43,46,83,19,20,268,45,33,90,cancelado,Skipstorm,75 Browning Park,Obrera,Mexico,782-693-6075,88680,vjanceyi@deliciousdays.com,2024-10-29
+44,20,9,100,25,96,83,83,39,completado,Jazzy,0 Thackeray Lane,Francistown,Botswana,926-310-5661,Desconocido,jcavozzi2r@google.de,2025-02-05
+45,56,32,29,10,137,93,93,46,en curso,Kwinu,88109 Monica Road,Warugunung,Indonesia,414-355-3365,Desconocido,acamblings@infoseek.co.jp,2024-06-25
+46,64,9,92,10,8,91,81,5,cancelado,Edgepulse,25159 Mifflin Drive,Livadiya,Russia,183-508-7910,363001,bsaundercock2j@thetimes.co.uk,2025-06-11
+47,21,6,86,22,202,84,58,98,cancelado,Buzzbean,3 Pine View Pass,San Pablo,Costa Rica,710-628-8476,12001,fbrandts2d@angelfire.com,2024-12-26
+48,18,23,56,2,185,30,54,57,en curso,Kaymbo,349 Westend Place,Puerto Esperanza,Argentina,996-687-1844,3378,nsimkiss1j@sohu.com,2024-07-05
+49,72,12,57,4,181,27,78,90,en curso,Realmix,82 Prairie Rose Hill,Wilga,Poland,997-128-3824,08-470,chardwick1k@huffingtonpost.com,2025-06-04
+50,29,42,55,12,182,78,45,31,en curso,Viva,1205 Westridge Hill,Stockholm,Sweden,415-134-8472,103 98,mgorgen1i@g.co,2024-10-24
+51,28,70,80,18,251,78,68,56,cancelado,Twitterbeat,55072 Welch Street,Ústí nad Orlicí,Czech Republic,520-346-8283,562 06,ocalvie27@patch.com,2025-03-13
+52,71,61,47,12,164,85,14,13,en curso,Topicblab,6596 Welch Circle,Shuanglong,China,692-314-2210,Desconocido,bwitherington1a@weibo.com,2024-08-24
+53,92,93,45,16,166,7,17,63,cancelado,Voomm,5512 Loeprich Road,Guararapes,Brazil,591-561-8944,16700-000,epleming18@state.gov,2024-11-05
+54,76,81,59,17,177,79,18,13,completado,Rooxo,449 Stoughton Crossing,Horní Suchá,Czech Republic,170-602-0077,735 35,tplayer1m@google.fr,2024-11-21
+55,55,61,42,8,338,70,45,7,cancelado,Browsecat,388 Straubel Center,São João,Portugal,673-511-0453,4890-484,dcowell15@unicef.org,2024-12-15
+56,86,16,7,10,241,80,31,81,en curso,Tagchat,334 Shopko Alley,Majie,China,469-823-0087,Desconocido,sembleton6@reddit.com,2024-11-03
+57,13,24,30,24,96,77,67,74,completado,Latz,6 Spenser Street,Neofbaun,Indonesia,309-353-2613,Desconocido,gcortest@washington.edu,2025-01-12
+58,32,8,87,2,87,60,6,36,completado,Babblestorm,35783 Bartelt Way,Beiwa,China,797-660-8068,Desconocido,jife2e@addtoany.com,2024-09-16
+59,97,4,10,5,208,37,26,33,completado,Zoozzy,3 Aberg Lane,Ngaoundéré,Cameroon,682-527-8006,Desconocido,ghaquin9@imgur.com,2025-04-05
+60,74,40,11,25,344,76,64,35,cancelado,Dablist,8 Jana Hill,Rongelap,Marshall Islands,391-799-6076,96960,mrosenshinea@csmonitor.com,2024-10-28
+61,17,77,90,12,40,82,95,78,en curso,Topiczoom,0845 Dakota Crossing,Sendangkemulian,Indonesia,301-453-7990,Desconocido,bdiboldi2h@tinypic.com,2025-04-15
+62,51,46,44,3,266,28,92,26,cancelado,Meembee,08995 Kipling Circle,Nakhon Nayok,Thailand,724-986-6900,26120,apailin17@ebay.co.uk,2025-01-04
+63,97,76,90,14,309,38,57,76,completado,Topiczoom,0845 Dakota Crossing,Sendangkemulian,Indonesia,301-453-7990,Desconocido,bdiboldi2h@tinypic.com,2025-04-15
+64,28,19,13,18,109,13,37,6,en curso,Fliptune,291 Eliot Center,Francisco J Mujica,Mexico,526-882-6360,59762,cbrandinoc@bigcartel.com,2025-04-01
+65,54,12,83,20,313,72,82,17,completado,Oyondu,95 Del Sol Alley,Bandera,Argentina,578-970-5364,3064,mnutkins2a@patch.com,2024-07-17
+66,90,71,49,1,155,93,22,18,completado,Gabspot,655 Hintze Lane,Berestechko,Ukraine,213-539-3206,Desconocido,hplumtree1c@usnews.com,2024-07-21
+67,21,57,75,17,189,36,78,84,en curso,Eidel,9679 Nova Circle,Sokolac,Bosnia and Herzegovina,839-526-8367,Desconocido,lspinney22@addtoany.com,2024-07-31
+68,38,32,95,27,313,83,82,75,completado,Rhybox,8 Mccormick Terrace,Jiufeng,China,880-292-6902,Desconocido,crotchell2m@sogou.com,2025-05-12
+69,58,84,89,6,196,26,25,76,cancelado,Skynoodle,5524 American Ash Parkway,El Aguilar,Argentina,153-506-3669,4634,fleggon2g@dedecms.com,2024-12-26
+70,69,91,15,29,340,36,95,81,en curso,Bubbletube,41086 Shopko Avenue,San Javier,Chile,942-981-0834,Desconocido,vbythewaye@disqus.com,2025-03-12
+71,26,12,51,5,247,89,98,12,en curso,Realblab,617 Petterle Trail,El Marañón,Honduras,384-954-5615,Desconocido,jreimer1e@dion.ne.jp,2025-03-31
+72,18,43,96,23,167,33,81,29,cancelado,Gigaclub,52814 Wayridge Avenue,Wonorejo,Indonesia,785-475-2419,Desconocido,knovotni2n@goodreads.com,2025-06-07
+73,58,39,60,16,319,52,16,90,cancelado,Avamm,7479 Saint Paul Way,Hāfizābād,Pakistan,327-959-1865,52111,mlittlejohns1n@printfriendly.com,2024-11-30
+74,51,91,6,9,157,48,80,25,cancelado,Gabtune,64469 Meadow Ridge Trail,Citalahab,Indonesia,364-120-1995,Desconocido,wempson5@nature.com,2024-09-05
+75,62,72,15,28,312,6,80,35,en curso,Bubbletube,41086 Shopko Avenue,San Javier,Chile,942-981-0834,Desconocido,vbythewaye@disqus.com,2025-03-12
+76,62,73,33,6,232,39,46,25,cancelado,Tazz,58 Florence Park,Huangshi,China,414-796-0978,Desconocido,zbrockmanw@i2i.jp,2025-01-19
+77,76,5,69,4,128,26,57,12,completado,BlogXS,01091 Green Ridge Circle,Nyíregyháza,Hungary,836-488-5505,4404,kbenstead1w@msn.com,2024-10-25
+78,22,84,90,16,159,15,10,67,cancelado,Topiczoom,0845 Dakota Crossing,Sendangkemulian,Indonesia,301-453-7990,Desconocido,bdiboldi2h@tinypic.com,2025-04-15
+79,33,81,54,8,98,13,95,55,completado,Oyoloo,70 Graedel Crossing,San Jose,Philippines,223-241-0379,8427,dnorssister1h@canalblog.com,2024-08-11
+80,57,99,48,8,23,51,39,67,cancelado,Voomm,09 Northwestern Avenue,Akhaltsikhe,Georgia,806-586-7618,Desconocido,haxel1b@posterous.com,2025-03-20
+81,53,92,98,30,44,4,56,51,cancelado,Realmix,28 Lukken Way,Olejet,Indonesia,760-481-6201,Desconocido,ccrossingham2p@lulu.com,2025-02-17
+82,12,82,77,27,118,43,50,86,cancelado,Flipstorm,68 Basil Court,Xiaxihao,China,461-378-8480,Desconocido,gover24@mlb.com,2025-05-22
+83,20,64,8,28,324,18,18,78,completado,Quimba,803 Vermont Center,Chuhuyiv,Ukraine,391-165-6280,Desconocido,ihabbergham7@eepurl.com,2024-10-25
+84,22,25,87,27,149,71,78,86,en curso,Babblestorm,35783 Bartelt Way,Beiwa,China,797-660-8068,Desconocido,jife2e@addtoany.com,2024-09-16
+85,20,82,71,29,204,89,28,83,en curso,Wordware,434 Luster Court,Yangxunqiao,China,218-507-9740,Desconocido,gjentle1y@last.fm,2024-09-23
+86,46,48,91,18,161,13,11,70,cancelado,Browsezoom,26 Arapahoe Avenue,Oslo,Norway,176-571-7176,0031,ksoonhouse2i@utexas.edu,2025-05-16
+87,47,49,73,17,49,10,32,67,en curso,Gabtype,07552 Magdeline Junction,Yermish’,Russia,523-760-8254,391660,gwarde20@rakuten.co.jp,2024-08-27
+88,13,97,12,9,313,99,47,52,en curso,Wikibox,52120 Walton Alley,Hampang,Indonesia,360-652-4750,Desconocido,clakinb@woothemes.com,2025-02-13
+89,93,78,72,18,122,77,5,19,completado,Topicshots,8544 Carpenter Drive,Guisa,Cuba,128-173-8630,Desconocido,rrosenbarg1z@fema.gov,2024-10-30
+90,87,68,39,5,233,9,2,4,en curso,Kanoodle,594 Mandrake Parkway,Odiongan,Philippines,728-512-8472,5505,nransfield12@geocities.jp,2024-08-10
+91,100,56,76,7,47,28,34,30,completado,Buzzbean,9105 School Place,Ma’ao,China,304-318-3534,Desconocido,esnadden23@studiopress.com,2024-10-24
+92,4,18,97,6,277,37,5,43,cancelado,Plajo,6 Shopko Pass,Costa Nova do Prado,Portugal,137-968-3790,3830-455,bmenego2o@blogger.com,2024-09-27
+93,7,14,61,25,10,5,7,98,en curso,Roomm,5 Eliot Point,Quảng Ngãi,Vietnam,469-163-5369,Desconocido,svondrys1o@themeforest.net,2025-03-29
+94,48,100,76,6,258,12,48,35,completado,Buzzbean,9105 School Place,Ma’ao,China,304-318-3534,Desconocido,esnadden23@studiopress.com,2024-10-24
+95,44,29,11,9,176,7,88,98,cancelado,Dablist,8 Jana Hill,Rongelap,Marshall Islands,391-799-6076,96960,mrosenshinea@csmonitor.com,2024-10-28
+96,38,49,12,30,282,6,20,79,completado,Wikibox,52120 Walton Alley,Hampang,Indonesia,360-652-4750,Desconocido,clakinb@woothemes.com,2025-02-13
+97,40,37,80,25,192,63,89,8,completado,Twitterbeat,55072 Welch Street,Ústí nad Orlicí,Czech Republic,520-346-8283,562 06,ocalvie27@patch.com,2025-03-13
+98,19,59,93,13,193,36,67,29,cancelado,Tambee,876 Maryland Park,Södertälje,Sweden,168-784-8097,152 31,nlukianovich2k@yahoo.co.jp,2024-11-30
+99,69,85,99,3,125,98,5,87,cancelado,Mydeo,3790 Northland Hill,Biny Selo,Azerbaijan,491-969-0315,Desconocido,dhawtin2q@merriam-webster.com,2024-09-28
+100,31,98,81,20,136,48,77,43,completado,Yotz,754 Cody Street,Néa Magnisía,Greece,440-286-6196,Desconocido,blaughton28@1688.com,2024-09-27

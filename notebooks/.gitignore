@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+venv/
+env/
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales y cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+.DS_Store
